@@ -14,7 +14,7 @@ import urllib.request
 import os
 
 MY_EMAIL = 'keerthik'
-MY_PASSWORD = 'Keer300391'
+MY_PASSWORD = ''
 MY_PROFILE_NAME = ''
 path_to_chromedriver = 'D:\Keerthi\chromedriver_win32\chromedriver.exe' # change path as needed
 profile=webdriver.FirefoxProfile()
